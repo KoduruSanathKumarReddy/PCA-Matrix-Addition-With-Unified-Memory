@@ -389,7 +389,7 @@ No API activities were profiled.
 ======== Error: Application received signal 139
 root@MidPC:/home/student/#
 ~~~
-![](m1.png)
+<img width="750" alt="m1" src="https://github.com/KoduruSanathKumarReddy/PCA-Matrix-Addition-With-Unified-Memory/assets/69503902/d5508c67-6fef-47bd-b108-3dc7efdaa640">
 ## Removing the memset
 ~~~
 root@MidPC:/home/student/Desktop# nvcc test.cu
@@ -415,7 +415,7 @@ No API activities were profiled.
 root@MidPC:/home/student/Desktop# ^C
 root@MidPC:/home/student/Desktop#
 ~~~
-![](m2.png)
+<img width="750" alt="m2" src="https://github.com/KoduruSanathKumarReddy/PCA-Matrix-Addition-With-Unified-Memory/assets/69503902/c3993357-8fa6-46f2-90eb-ee7e8b653428">
 
 ## Result:
 Thus Matrix addition with unified memory is done and its performance with nvprof is checked.
